@@ -15,6 +15,6 @@ export const styles = {
 
     groupContainer: "flex overflow-hidden bg-[var(--color-bg-card)] min-h-[100px] h-full",
     groupItem: "flex-1 flex items-center justify-center px-4 py-6 text-center font-medium text-l text-[var(--color-blue)] border-r border-[var(--color-border)] dark:border-white/10 last:border-r-0",
-    listCard: "px-8 py-6  bg-[var(--color-bg-card)] flex flex-col justify-center items-start gap-2 min-h-[100px] ",
+    listCard: "px-8 py-6  bg-[var(--color-bg-card)] flex flex-col justify-center items-start  min-h-[100px] ",
     listItem: "text-l font-medium text-[var(--color-blue)] flex items-center gap-3 before:content-['•'] before:text-[#516CF7] before:text-xs"
 }; 
